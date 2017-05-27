@@ -1,0 +1,171 @@
+header {background-color: #c04130;
+        color: #e5ddcc;
+		text-align: center;
+		text-shadow: 2px 2px 4px #041006;
+		border-bottom: 2px solid #d8482d;
+		font-family: Georgia, "Times New Romans", serif;
+		font-style: italic; 
+		font-size: 150%;
+		padding: 5px;
+}
+nav {float: right;
+	 margin-bottom: 3px;
+	 font-size: 1.5em;
+}
+nav a {text-decoration: none;
+       padding: 12px;
+	   color: #d8462c;
+}
+nav li {display: inline;
+	   line-height: 100%;
+	   letter-spacing: 0.1em;
+	   font-weight: bold;
+	   font-family: Georgia, "Times New Romans", serif;
+       /*font-size: 1.2em;*/
+}
+nav ul {list-style-type: none;
+        margin-right:10px;
+}
+nav a:link {color: #d8462c;}
+nav a:visited {color: #da4630;}
+nav a:hover {color: #904d44;}
+img {margin-bottom: 5px;
+     margin-left: 5px;
+     margin-right: 5px;	 
+	/*height: 725px;*/
+     width: 100%;
+	 overflow: auto;
+}
+main ul, li {list-style-type: none;
+         color: #ba4630;
+		 font-family: arial;
+		 margin-left: 5px;
+		 margin-bottom: 0;
+		 padding: 0 10px 1px 0;
+}
+.column {float: left;
+         margin: 0 10px 0 0;
+		 font-family: Georgia, "Times New Romans", serif;
+		 font-style: italic;
+}
+#us { font-size: 1.7em;
+      /*text-align: Center;*/
+	  font-family:Georgia, "Times New Romans", serif;
+	  /*font-style: italic;*/
+	  margin-left: 10px;
+}	
+.we {margin: 10px 440px 10px 50px;
+     padding-bottom: 10px;}
+#gallery { height: 183px;
+           width: 275px;
+		   /*width: 100%;*/
+		   margin-bottom: 110px;
+           float: right;
+           border: 1px solid #000000;
+           /*margin: auto;*/
+		   margin-right: 80px;
+		   clear: right;
+		   /*position: relative;
+		   top: 1px;
+		   bottom: 160px;*/
+		   }
+table {margin: 10px 5px 30px 10px;
+       border: 3px solid #ba4630;
+	   border-spacing: 0;
+	   /*float: right;
+	   
+	   /*width: 300px;*/
+	   /*overflow: auto;*/
+}
+td, th { border: 1px solid #ba4630;
+         padding: 0.2em;
+		 font-family: Arial, sans-serif;
+}
+caption {font-family: Verdana, sans-serif;
+         font-weight: bold;
+		 font-size: 1.2em;
+		 padding-bottom: 0.5px;
+		 color: #ba4630;
+}
+fieldset {width: 600px;
+          height: 630px;
+          /*border: 5px double #000000;*/
+		  box-shadow: 1px 2px 5px #000000;
+		  /*color: #c04130;*/
+		  color: #808080;
+		  padding: 10px;
+		  /*padding-left: 10px;*/
+		  overflow: auto;
+		  margin-top: 20px;
+		  margin-left: auto;
+		  margin-right: auto;
+		  text-align: left;
+		  line-height: 1em;
+}
+legend { font-family: Arial, sans-serif;
+         font-weight: bold;
+		 font-size: 1.4em;
+		 margin-bottom: 3px;
+		 padding: 5px;
+}
+label {font-family: Arial, sans-serif;
+	   margin: 5px;
+}
+input, textarea {border: 1px solid #504444;
+                 overflow: auto;
+				 font-size: 1em;
+				 margin: 3px;
+				 padding: 2px;
+				 box-shadow: 1px 2px 5px #89716d;
+                 /*width: ;
+				 height: 25px;*/
+}
+.infoform {margin-top: 85px;
+	       text-align: center;
+}
+/*form { background-color: #da4630;
+       font-family: Arial, sans-serif;
+	   padding: 10px;}
+label { float: left;
+        width: 50px;
+		clear: left;
+		text-align: right;
+		padding-right: 10px;
+		margin-top: 10px;
+}
+input, textarea {margin-top: 10px;
+                 display: block;
+}
+#mySubmit {margin-left: 110px;}	*/   
+h1 { margin-bottom: 10px;
+     margin-top: 10px;
+	 /*font-family:Georgia, "Times New Romans", serif;*/
+}
+h2 { font-family: Georgia, "Times New Romans", serif;
+     color: #ba4630;
+	 margin: 0;
+	 padding-left: 9px; 
+}
+h3 { font-family: Georgia, "Times New Romans", serif;
+	      text-align: right;
+	      margin-right: 20px;
+}
+p {text-indent: 2em;
+	margin-top: 10px;
+   font-size:1.3em;
+   color: #ba4630;
+   margin-left: 8em;
+   margin-right: 8em;
+}
+#address {color: #e5ddcc;}
+footer { font-size: 100%;
+         text-align: center;
+		 padding: 10px;
+		 background-color: #c04130;
+		 margin-top: 10px;
+		 
+		 /*color: #e5ddcc;*/
+		/* border-top: 2px solid #d8482d;
+		 margin-bottom: 5px;*/
+}	   
+
